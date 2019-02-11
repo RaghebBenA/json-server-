@@ -226,7 +226,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/ragheb.JPG",
+      "image": "images/ragheb.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -235,7 +235,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/ragheb.JPG",
+      "image": "images/ragheb.jpg",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -244,7 +244,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "images/ragheb.JPG",
+      "image": "images/ragheb.jpg",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -253,7 +253,7 @@
     {
       "id": 3,
       "name": "Ragheb Ben Amor",
-      "image": "images/ragheb.JPG",
+      "image": "images/ragheb.jpg",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
